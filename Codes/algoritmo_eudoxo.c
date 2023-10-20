@@ -1,3 +1,9 @@
+/*
+    Acadêmica de Engenharia Elétrica Maria Edivãnia Neres de Sousa
+    Universidade Federal do Piauí
+    Teresina, Piauí. 20/10/2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
